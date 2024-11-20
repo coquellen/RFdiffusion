@@ -5,11 +5,11 @@ channels:
   - dglteam
   - nvidia
 dependencies:
-  - python=3.12
+  - python=3.10
   - pytorch=2.3
   - torchaudio
   - torchvision
-  - cudatoolkit=12.6
+  - cudatoolkit=12.6.4
   - dgl-cuda11.1
   - pip
   - pip:
