@@ -9,7 +9,7 @@ dependencies:
   - pytorch=2.3
   - torchaudio
   - torchvision
-  - cudatoolkit=12.6.4
+  - cudatoolkit=12.6.2
   - dgl-cuda11.1
   - pip
   - pip:
